@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tsp_udp_servers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tsp_udp_servers_jar</output-path>
+    <root id="archive" name="tsp_udp_servers.jar">
+      <element id="module-output" name="tsp_udp_servers" />
+    </root>
+  </artifact>
+</component>
